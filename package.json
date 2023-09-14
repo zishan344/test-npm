@@ -1,0 +1,23 @@
+{
+  "name": "test-attempt-1",
+  "version": "1.0.0",
+  "description": "test in npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zishan344/testrIn.git"
+  },
+  "keywords": [
+    "hallo",
+    "worlod"
+  ],
+  "author": "zishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zishan344/testrIn/issues"
+  },
+  "homepage": "https://github.com/zishan344/testrIn#readme"
+}
